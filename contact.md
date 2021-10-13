@@ -1,3 +1,3 @@
-# About me
+### I'd love to hear from you.
 
-I'm Austin.
+Let's [connect on LinkedIn](link). Or, [send me an email](link).
