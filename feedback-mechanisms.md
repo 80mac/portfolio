@@ -70,3 +70,5 @@ We used these principles to design the form.
 3. Assurance - 
 * Messages in the dialogue reinforce our reception of the user’s choice; we’re appreciative in both cases, and take note where improvements are needed.
 * Stamps match the sentiment shown on the form buttons - thumbs up or down
+
+[Home](index.md)

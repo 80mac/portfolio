@@ -8,3 +8,5 @@ I’m particularly interested in accessible & equitable content design. As part 
 
 [View my resume](link)
 [Contact me](link)
+
+[Home](index.md)

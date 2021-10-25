@@ -23,3 +23,5 @@
 - Check out the variation on the “wait” message 🙂
 - Since we really only searched for upcoming bookings, we’ll provide options for a user to see other bookings they might be searching for. An initial assumption on our part that they’d be looking for upcoming, but still a smooth experience for the alternative.
 - The “Search as a guest” experience is still conversational — plenty of room to grow using an inline card or form for this as well!
+
+[Home](index.md)
