@@ -17,3 +17,5 @@ In my role as Social Media Manager, I took content from the IT Showcase team and
 I won't claim to be an expert on [Azure SQL Database](https://www.microsoft.com/en-us/itshowcase/creating-business-intelligence-with-azure-sql-database), for example; my expertise is in understanding what an audience [needs to know](https://twitter.com/Azure/status/1151974934446563329) so that they want to find out more.
 
 *add a bunch more photos*
+
+[Home](index.md)

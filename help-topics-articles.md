@@ -23,3 +23,5 @@ By adding “Related content” links, I increased the article’s value for all
 Read the full article [here](https://www.microsoft.com/en-us/itshowcase/meet-our-experts-at-microsoft-ignite-2019-and-explore-their-content-here?_lrsc=8eda1cf2-6c59-410f-8551-08d3f9ae2172).
 
 *add photo*
+
+[Home](index.md)
