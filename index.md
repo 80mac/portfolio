@@ -4,6 +4,8 @@
 
 [View my resume](/assets/files/AustinMacdowell_Resume_Apr2021.pdf)
 
+[Connect with me on LinkedIn](https://www.linkedin.com/in/austinmacdowell/)
+
 ## Projects
 
 * [Feedback mechanisms](feedback-mechanisms.md)
